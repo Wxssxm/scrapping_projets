@@ -13,7 +13,7 @@ Ce script Python permet de scraper les appels à projets disponibles sur la page
 
 ## Instructions d'utilisation
 Téléchargement du script :
-Copiez le code dans un fichier Python .py
+Copiez le code dans un fichier Python .py (ex: scraping_bpifrance.py)
 
 Exécution du script :
 1.Ouvrir un terminal.
