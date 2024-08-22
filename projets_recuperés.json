@@ -1,0 +1,74 @@
+[
+    {
+        "titre": "Carrefours de l'Entrepreneuriat",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/carrefours-de-lentrepreneuriat",
+        "description": "Cet appel à candidatures est ouvert aux opérateurs de l’accompagnement à la création d’entreprise et aux collectivités. Il est attendu des projets col...",
+        "date_range": "03/04/2024 au 30/08/2024"
+    },
+    {
+        "titre": "Bus de l'entrepreneuriat",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/bus-de-lentrepreneuriat",
+        "description": "Cet appel à candidatures est ouvert aux acteurs de l’accompagnement à la création/reprise d’entreprise, collectivités locales et leurs groupements et ...",
+        "date_range": "03/04/2024 au 13/09/2024"
+    },
+    {
+        "titre": "CitésLab – Révélateurs de Talents",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/citeslab-revelateurs-de-talents",
+        "description": "Cet appel à candidatures est ouvert aux acteurs de l'accompagnement à la création/reprise d'entreprise, collectivités locales et leurs groupements et ...",
+        "date_range": "17/05/2024 au 13/09/2024"
+    },
+    {
+        "titre": "Appel à projets « CORAM 2024 »",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-coram-2024",
+        "description": "Le présent AAP vise à soutenir des projets de recherche et de développement, portés par des entreprises de la filière automobile et des acteurs de l’é...",
+        "date_range": "11/01/2024 au 17/09/2024"
+    },
+    {
+        "titre": "Appel à manifestation d’intérêt AQUILA : « Développement des applications du calcul quantique à forte intensité en ressources »",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-manifestation-dinteret-aquila-developpement-des-applications-du-calcul-quantique-a-forte-intensite-en-ressources",
+        "description": "Afin d’intensifier l’accès aux moyens de calcul, le programme AQUILA (« Advanced Quantum Understanding : Implementing Large-scale Applications »), qui...",
+        "date_range": "01/07/2024 au 19/09/2024"
+    },
+    {
+        "titre": "Appel à manifestation d'intérêt - Réalisation de Diags Adaptation",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-manifestation-dinteret-realisation-de-diags-adaptation-0",
+        "description": "Banque du Climat, Bpifrance souhaite accompagner les entreprises françaises dans leurs démarches de transition écologique. Bpifrance a ainsi décidé de...",
+        "date_range": "29/07/2024 au 20/09/2024"
+    },
+    {
+        "titre": "Appel à Projets Eureka Lightweighting",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-eureka-lightweighting",
+        "description": "Ce nouvel appel à projets vise à promouvoir et financer les collaborations internationales ayant comme objet la réduction du poids, l’utilisation des ...",
+        "date_range": "29/06/2024 au 25/09/2024"
+    },
+    {
+        "titre": "Appel à Projets France-Singapour",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-france-singapour",
+        "description": "Cet appel à projets vise à promouvoir et financer les collaborations technologiques entre les entreprises françaises et singapouriennes",
+        "date_range": "25/03/2024 au 27/09/2024"
+    },
+    {
+        "titre": "Appels à projets : Programme Propulse",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/appels-a-projets-programme-propulse",
+        "description": "Afin d’accompagner et d’accélérer les démarches d’innovation, l’Agence de l’innovation pour les transports lance le programme Propulse. Vous avez jusq...",
+        "date_range": "03/07/2024 au 30/09/2024"
+    },
+    {
+        "titre": "Accélérateur Néo – Pivot Industriel",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/accelerateur-neo-pivot-industriel",
+        "description": "L’Accélérateur Néo – Pivot Industriel est un programme d’accompagnement pour dirigeants de PME industrielles qui souhaitent faire pivoter leur busines...",
+        "date_range": "19/06/2023 au 01/09/2024"
+    },
+    {
+        "titre": "Accélérateur Néo - Startups Industrielles",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/accelerateur-neo-startups-industrielles",
+        "description": "L’Accélérateur Néo - Startups Industrielles est un programme d’accompagnement pour dirigeants de startups qui souhaitent faire entrer leur produit ou ...",
+        "date_range": "28/04/2023 au 01/09/2024"
+    },
+    {
+        "titre": "Candidatez à l'Accélérateur Savoir-Faire d'Exception 2",
+        "lien": "https://www.bpifrance.fr/nos-appels-a-projets-concours/candidatez-a-laccelerateur-savoir-faire-dexception-2",
+        "description": "L’Accélérateur Savoir-Faire d’Exception est un programme d’accompagnement à destination des dirigeants des entreprises des métiers d’arts qui souhaite...",
+        "date_range": "01/09/2023 au 04/06/2025"
+    }
+]
