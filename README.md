@@ -17,8 +17,12 @@ Copiez le code dans un fichier Python .py
 
 Exécution du script :
 1.Ouvrir un terminal.
+
 2.Naviguer jusqu'au répertoire où se trouve le script.
+
 3.Exécuter le script avec la commande suivante :
 ```bash
 python scraping_bpifrance.py
+```
+Un fichier JSON est créé dans le même répertoire que le script, sous le nom "projets_recuperés.json".
 
