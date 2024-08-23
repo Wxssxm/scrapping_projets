@@ -9,7 +9,7 @@ Ce script Python permet de scraper les appels à projets disponibles sur la page
 
 -Extraction des informations : Il récupère le titre, le lien, la description et les dates de chaque appel à projets.
 
--Génération d'un fichier JSON : Les informations extraites sont sauvegardées dans un fichier JSON structuré.
+-Génération d'un fichier JSON & CSV: Les informations extraites sont sauvegardées dans un fichier JSON et un CSV.
 
 ## Prérequis
 
@@ -32,5 +32,5 @@ Exécution du script :
 ```bash
 python scraping_bpifrance.py
 ```
-Un fichier JSON est créé dans le même répertoire que le script, sous le nom "projets_recuperés.json".
+Un fichier JSON et un fichier CSV sont créés dans le même répertoire que le script, respectivement sous les nom "appels_à_projets.json" et "appels_à_projets.csv".
 
