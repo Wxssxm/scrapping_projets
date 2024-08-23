@@ -11,6 +11,14 @@ Ce script Python permet de scraper les appels à projets disponibles sur la page
 
 -Génération d'un fichier JSON : Les informations extraites sont sauvegardées dans un fichier JSON structuré.
 
+## Prérequis
+
+Avant d'exécuter le script, installer les dépendances suivantes :
+
+```bash
+pip install requests beautifulsoup4 pandas
+```
+
 ## Instructions d'utilisation
 Téléchargement du script :
 Copiez le code dans un fichier Python .py (ex: scraping_bpifrance.py)
