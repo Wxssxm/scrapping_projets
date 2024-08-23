@@ -14,7 +14,7 @@ def extract_project_cards(soup):
     
     return soup.find_all("div", class_="article-card card-our-project md-card")
 
-#     Extrait les données des projets à partir des cartes HTML.
+# Extrait les données des projets à partir des cartes HTML.
 def extract_project_data(cards):
 
     data = []
